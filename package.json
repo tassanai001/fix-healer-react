@@ -1,0 +1,32 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "private": true,
+  "scripts": {
+    "start": "react-native-scripts start",
+    "eject": "react-native-scripts eject",
+    "android": "react-native-scripts android",
+    "ios": "react-native-scripts ios",
+    "test": "jest",
+    "generate": "plop --plopfile generators/index.js",
+    "lint": "eslint src"
+  },
+  "dependencies": {
+    "art": "0.10.2",
+    "d3": "5.4.0",
+    "d3-shape": "1.2.0",
+    "expo": "27.0.1",
+    "native-base": "2.4.4",
+    "prop-types": "15.6.1",
+    "react": "16.3.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-27.0.0.tar.gz",
+    "react-native-animatable": "1.2.4",
+    "react-native-calendar-datepicker": "1.2.2",
+    "react-native-gifted-chat": "0.4.3",
+    "react-native-scaling-drawer": "1.0.1",
+    "react-native-scrollable-tab-view": "0.8.0",
+    "react-native-snap-carousel": "3.7.0",
+    "react-native-swipeout": "2.3.3",
+    "react-navigation": "1.5.12",
+    "react-native-scripts": "^1.14.0"
+  }
+}
